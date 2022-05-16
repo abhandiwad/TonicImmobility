@@ -1,4 +1,4 @@
-# CodeExamples
+# Tonic immobility paper
 
 This repository contains some of the scripts used for Bhandiwad et al (2021) A cerebellar-prepontine circuit for tonic immobility triggered by inescapable threat (https://doi.org/10.1101/2021.09.02.458709)
 
