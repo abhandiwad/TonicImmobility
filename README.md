@@ -4,6 +4,6 @@ This repository contains some of the scripts used for ['Bhandiwad et al (2021) A
 
 ### Folders
 
-Publication_figures - Data and R scripts used to generate figures for manuscript
-Calcium_imaging_UMAP - Python code used to generate UMAP figure for clustering calcium imaging data
-y334_volcano plot - Python code used to generate Figure 4H
+- Publication_figures : Data and R scripts used to generate figures for manuscript
+- Calcium_imaging_UMAP : Python code used to generate UMAP figure for clustering calcium imaging data
+- y334_volcano plot : Python code used to generate Figure 4H
